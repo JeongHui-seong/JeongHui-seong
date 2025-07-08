@@ -5,6 +5,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:36BCF7&height=160&section=header&text=Hi%20I'm%20Huiseong&fontSize=35&fontColor=ffffff" />
 </p>
 
+<!--github farms-->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JeongHui-seong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JeongHui-seong"
+  width="600"
+  height="300"
+/>
+</a>
+
 ---
 
 ## ✨ My Values
