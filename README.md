@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
@@ -62,11 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHui-seong&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeongHui-seong&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 <!-- Wave Footer -->
