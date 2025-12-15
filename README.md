@@ -64,7 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHui-seong&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
----
 
 <!-- Wave Footer -->
 <p align="center">
